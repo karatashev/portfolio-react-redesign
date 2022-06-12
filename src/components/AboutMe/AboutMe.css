@@ -1,0 +1,21 @@
+.aboutMe-container {
+  display: flex;
+  margin-left: 130px;
+  margin-right: 130px;
+  justify-content: space-evenly;
+}
+
+.aboutMe-text {
+  width: 40%;
+  margin-top: 50px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.aboutMe-container h1 {
+  color: purple;
+  font-size: 40px;
+  font-weight: bolder;
+}
